@@ -1,6 +1,6 @@
 # Makefile version 1.0.1
 
-APP="SA_cities.tgz"
+APP="SA-simplemaps-cities.tgz"
 APP_DIR="SA-simplemaps-cities"
 USER="tmoser@splunk.com"
 
